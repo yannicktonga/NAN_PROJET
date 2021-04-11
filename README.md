@@ -3,6 +3,7 @@ Projet Nan 1
 
 ## Exercice 1
 
+
 """python
 
 from random import *
@@ -16,6 +17,7 @@ while x != y:
         print("Le nombre proposé est plus grand. Réessayez")
 if x == y:
     print ("Bravo ! Le nombre proposé est correcte.")
+
 
 """
 
